@@ -1,4 +1,4 @@
-#First day advent of code
+#Advent of Code 2020 - Day 1
 
 import copy
 
